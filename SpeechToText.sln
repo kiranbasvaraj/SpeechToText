@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechToText.Android", "SpeechToText\SpeechToText.Android\SpeechToText.Android.csproj", "{1BD77918-BDA7-499D-BDA4-28B873BDA11B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechToText", "SpeechToText\SpeechToText\SpeechToText.csproj", "{D68FAA91-E1AF-4562-B9F7-D8413FB0C092}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BD77918-BDA7-499D-BDA4-28B873BDA11B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD77918-BDA7-499D-BDA4-28B873BDA11B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD77918-BDA7-499D-BDA4-28B873BDA11B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1BD77918-BDA7-499D-BDA4-28B873BDA11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD77918-BDA7-499D-BDA4-28B873BDA11B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD77918-BDA7-499D-BDA4-28B873BDA11B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D68FAA91-E1AF-4562-B9F7-D8413FB0C092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D68FAA91-E1AF-4562-B9F7-D8413FB0C092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D68FAA91-E1AF-4562-B9F7-D8413FB0C092}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D68FAA91-E1AF-4562-B9F7-D8413FB0C092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D68FAA91-E1AF-4562-B9F7-D8413FB0C092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D68FAA91-E1AF-4562-B9F7-D8413FB0C092}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9FF6C4F-95D1-4087-9D84-2585532CFE28}
+	EndGlobalSection
+EndGlobal
